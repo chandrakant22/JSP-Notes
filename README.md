@@ -24,8 +24,7 @@
  </td>
  <td>
   
- ServletRequest Interface in Servlet 
- 
+  
  </td>
  <td>
   
@@ -43,12 +42,6 @@
  </td>
  <td>
   
- Servlet Collaboration in Servlet
-  <ul>
-        <li>RequestDispatcher </li>
-        <li>sendRedirect </li>
-   
-  </ul>
  
  </td>
  <td>
@@ -67,7 +60,7 @@
  </td>
  <td>
   
- ServletConfig & ServletContext
+
  
  </td>
  <td>
