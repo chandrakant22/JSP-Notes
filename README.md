@@ -79,14 +79,14 @@
  </td>
  <td>
   
- Servlet Advance (Session Tracking in Servlets)
+ <!--Servlet Advance (Session Tracking in Servlets)
   <ul>
          <li> Cookies</li>
          <li> Hidden Form Field</li>
          <li> URL Rewriting</li>
          <li> HttpSession</li>
    </ul>
- 
+ -->
  </td>
  <td>
   
