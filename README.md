@@ -103,13 +103,7 @@
  </td>
  <td>
   
- Servlet Filter
-    <ul>
-         <li> Filter</li>
-         <li> FilterChain</li>
-         <li> FilterConfig</li>
-   </ul>
- 
+
  </td>
  <td>
   
@@ -125,8 +119,6 @@
  </td>
  <td>
   
- CRUD in Servlet
-
  
  </td>
  <td>
